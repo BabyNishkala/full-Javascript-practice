@@ -1,0 +1,11 @@
+let name="baby nishkala";
+console.log(name);
+console.log(name.toLowerCase());
+console.log(name.toUpperCase());
+console.log(name.charAt("n"));
+console.log(name.length);
+console.log(name.startsWith("b"));
+console.log(name.slice(1));
+console.log(name.includes("baby"));
+console.log(name.trim());
+console.log(name.indexOf("B"));
